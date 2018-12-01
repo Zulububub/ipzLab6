@@ -1,0 +1,7 @@
+D:\ipzLab6\repa2\tester\tester\bin\Debug\tester.exe.config
+D:\ipzLab6\repa2\tester\tester\bin\Debug\tester.exe
+D:\ipzLab6\repa2\tester\tester\bin\Debug\tester.pdb
+D:\ipzLab6\repa2\tester\tester\obj\Debug\tester.csprojAssemblyReference.cache
+D:\ipzLab6\repa2\tester\tester\obj\Debug\tester.csproj.CoreCompileInputs.cache
+D:\ipzLab6\repa2\tester\tester\obj\Debug\tester.exe
+D:\ipzLab6\repa2\tester\tester\obj\Debug\tester.pdb
